@@ -1,3 +1,6 @@
+LUAJIT_INC=/usr/local/include/luajit-2.1
+LUAJIT_LIB=/usr/local/lib
+
 ngx_lua_opt_I=
 ngx_lua_opt_L=
 luajit_ld_opt=
